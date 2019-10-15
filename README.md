@@ -6,7 +6,7 @@ Searches and tests SQL dorks to find vulnerable sites.
 - Various libraries found in requirements.txt
 
 # Features
-Searches google based on either pre-provided dorks or allows custom entry. Returns and tests as many results as you'd like.
+Searches google based on either pre-provided dorks or allows custom entry. Returns and tests as many results as you'd like. It then stores the valid sites in a text file in the root folder of the program.
 
 The provided dorks are cat, id, article, page, and bookid.
 

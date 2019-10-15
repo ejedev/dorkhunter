@@ -15,3 +15,8 @@ Currently there is no error handling (list index for entering an invalid dork se
 
 # Disclaimer
 This program was created as a Proof of Concept and it is not intended to be used in a malicious way. I am not responsible for any damages or criminal charges that come from using it.
+
+# Gallery
+![Startup screen](https://i.imgur.com/ZQCs600.png)
+
+More photos coming soon.
